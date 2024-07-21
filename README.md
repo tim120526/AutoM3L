@@ -5,7 +5,7 @@
 <be>
 </div>
 
-![method overview](resources/fig1.pdf)
+![method overview](resources/overview.jpg)
 
 ## Introduction
 
